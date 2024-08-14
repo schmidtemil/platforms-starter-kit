@@ -17,6 +17,7 @@ export default function HomePage() {
           app/home/page.tsx
         </InlineSnippet>
       </h1>
+      <h3>Hello my friend</h3>
     </div>
   );
 }
